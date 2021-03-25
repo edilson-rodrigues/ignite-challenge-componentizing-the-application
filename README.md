@@ -4,6 +4,24 @@ In this challenge, you will have to create an application to train what you have
 - To run the finished challenge, run 
 ```yarn install```
 to install the dependencies
+  
 
-- ```yarn dev```, to run the project
-- the project is running at the following address ```http://localhost:8080```
+- ```yarn server```, to run the api 
+    - request: ```get```
+  
+
+- Resources
+  - the project is running at the following address    
+  - ```http://localhost:3333/genres```    
+  - ```http://localhost:3333/movies```
+  
+  
+- Home
+  - the project is running at the following address
+  - ```http://localhost:3333```
+    - Loading server.json
+
+
+- ```yarn dev```, to run the project 
+    - the project is running at the following address 
+  - ```http://localhost:8080```
